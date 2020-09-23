@@ -1,4 +1,4 @@
-@font-face { font-family: 'Lemon Milk Light'; src: url('../fonts/LemonMilklight.otf'); }
+@font-face { font-family: 'MyriadRegular'; src: url('../fonts/MYRIADPRO-REGULAR.OTF'); }
 
 body {
     background-color: black;
@@ -27,7 +27,7 @@ body {
     left: 50px;
     margin-top: 10px;
     color: #89aec9;
-    font-family: 'Lemon Milk Light';
+    font-family: 'MyriadRegular';
     font-size: 45px;
 }
 
@@ -44,7 +44,7 @@ body {
     width: max-content;
     padding: 10px 20px;
     border: none;
-    font-family: 'Lemon Milk Light';
+    font-family: 'MyriadRegular';
     font-size: 20px;
     text-transform: uppercase;
     color: black;
