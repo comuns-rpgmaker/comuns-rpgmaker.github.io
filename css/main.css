@@ -61,12 +61,12 @@ a:link:hover {
 }
 
 .menu > button:hover {
-    background-color: #fbc286;
+    background-color: #f4d138;
     color: white;
 }
 
 .menu > button:focus {
-    background-color: #ae7668;
+    background-color: #bb1f13;
     color: black;
     outline: none;
 }
