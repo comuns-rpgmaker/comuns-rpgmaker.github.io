@@ -8,13 +8,9 @@
 <body>
     <div id="top">
         <img src="images/main_bg.png" id="background">
-        <div id="logo">
-            <img src="images/logo_bg.png" id="background">
-            <p>| Comuns Plugins</p>
-        </div>
     </div>
     <div class="menu">
-        <button id="i_home" class="li" onclick="loadDoc('partners')">Home</buttons>
+        <button id="i_home" class="li" onclick="loadDoc('home')">Home</buttons>
         <button id="i_plugins" class="li">Plugins</buttons>
         <button id="i_licence" class="li">License</buttons>
         <button id="i_contact" class="li">Contact</buttons>
@@ -25,7 +21,6 @@
 </body>
 
 <script>
-
 function loadDoc(page_name) {
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
@@ -47,6 +42,5 @@ function loadDoc(page_name) {
   }
 
 }
-
 </script>
 </html>
