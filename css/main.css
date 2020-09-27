@@ -74,7 +74,7 @@ a:link:hover {
 .post_body {
     background-color: whitesmoke;
     color: black;
-    padding: 5% auto;
+    margin: 5% auto;
     max-width: 90%;
     min-width: 90%;
     max-height: 90%;
