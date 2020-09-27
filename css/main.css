@@ -16,19 +16,8 @@ body {
     min-width: 100%;
 }
 
-#logo {
-    display: flex;
-    position: absolute;
-    top: 50px;
-}
-
-#logo p {
-    position: absolute;  
-    left: 50px;
-    margin-top: 10px;
-    color: #89aec9;
-    font-family: 'MyriadRegular';
-    font-size: 45px;
+#center {
+    text-align: center;
 }
 
 #background {
